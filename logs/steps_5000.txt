@@ -1,0 +1,103 @@
+Device: mps
+Parameters:        838,784
+Train characters:  3,976,213
+Chinchilla tokens: 16,775,680 (20 x params)
+Data limit:        15,904,852 (4 epochs)
+Training on:       81,920,000 tokens -> 5000 steps (20.6 epochs)
+Step 100/5000 | lr 1.00e-03 | train loss 2.5404 | val loss 2.5239 | val bpc 3.641 | 25s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 200/5000 | lr 9.99e-04 | train loss 2.4418 | val loss 2.4278 | val bpc 3.503 | 49s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 300/5000 | lr 9.96e-04 | train loss 2.3514 | val loss 2.3327 | val bpc 3.365 | 73s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 400/5000 | lr 9.92e-04 | train loss 2.1875 | val loss 2.1744 | val bpc 3.137 | 97s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 500/5000 | lr 9.85e-04 | train loss 2.0471 | val loss 2.0343 | val bpc 2.935 | 121s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 600/5000 | lr 9.77e-04 | train loss 1.9243 | val loss 1.9214 | val bpc 2.772 | 145s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 700/5000 | lr 9.67e-04 | train loss 1.8260 | val loss 1.8255 | val bpc 2.634 | 168s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 800/5000 | lr 9.56e-04 | train loss 1.7402 | val loss 1.7434 | val bpc 2.515 | 192s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 900/5000 | lr 9.42e-04 | train loss 1.6816 | val loss 1.6758 | val bpc 2.418 | 216s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1000/5000 | lr 9.27e-04 | train loss 1.6217 | val loss 1.6232 | val bpc 2.342 | 240s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1100/5000 | lr 9.11e-04 | train loss 1.5767 | val loss 1.5814 | val bpc 2.282 | 264s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1200/5000 | lr 8.93e-04 | train loss 1.5370 | val loss 1.5384 | val bpc 2.219 | 289s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1300/5000 | lr 8.73e-04 | train loss 1.5048 | val loss 1.5128 | val bpc 2.183 | 315s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1400/5000 | lr 8.53e-04 | train loss 1.4816 | val loss 1.4802 | val bpc 2.136 | 342s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1500/5000 | lr 8.31e-04 | train loss 1.4486 | val loss 1.4544 | val bpc 2.098 | 369s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1600/5000 | lr 8.08e-04 | train loss 1.4279 | val loss 1.4324 | val bpc 2.067 | 396s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1700/5000 | lr 7.84e-04 | train loss 1.4086 | val loss 1.4128 | val bpc 2.038 | 422s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1800/5000 | lr 7.58e-04 | train loss 1.3965 | val loss 1.4002 | val bpc 2.020 | 449s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 1900/5000 | lr 7.32e-04 | train loss 1.3777 | val loss 1.3844 | val bpc 1.997 | 475s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2000/5000 | lr 7.06e-04 | train loss 1.3683 | val loss 1.3701 | val bpc 1.977 | 502s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2100/5000 | lr 6.78e-04 | train loss 1.3542 | val loss 1.3631 | val bpc 1.966 | 529s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2200/5000 | lr 6.50e-04 | train loss 1.3433 | val loss 1.3458 | val bpc 1.942 | 556s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2300/5000 | lr 6.22e-04 | train loss 1.3304 | val loss 1.3389 | val bpc 1.932 | 583s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2400/5000 | lr 5.93e-04 | train loss 1.3286 | val loss 1.3338 | val bpc 1.924 | 611s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2500/5000 | lr 5.65e-04 | train loss 1.3129 | val loss 1.3220 | val bpc 1.907 | 641s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2600/5000 | lr 5.36e-04 | train loss 1.3089 | val loss 1.3186 | val bpc 1.902 | 672s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2700/5000 | lr 5.07e-04 | train loss 1.2974 | val loss 1.3101 | val bpc 1.890 | 702s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2800/5000 | lr 4.78e-04 | train loss 1.2888 | val loss 1.2987 | val bpc 1.874 | 734s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 2900/5000 | lr 4.50e-04 | train loss 1.2855 | val loss 1.2935 | val bpc 1.866 | 769s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3000/5000 | lr 4.22e-04 | train loss 1.2773 | val loss 1.2909 | val bpc 1.862 | 810s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3100/5000 | lr 3.95e-04 | train loss 1.2754 | val loss 1.2836 | val bpc 1.852 | 848s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3200/5000 | lr 3.68e-04 | train loss 1.2672 | val loss 1.2830 | val bpc 1.851 | 886s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3300/5000 | lr 3.42e-04 | train loss 1.2631 | val loss 1.2732 | val bpc 1.837 | 924s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3400/5000 | lr 3.17e-04 | train loss 1.2574 | val loss 1.2714 | val bpc 1.834 | 962s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3500/5000 | lr 2.93e-04 | train loss 1.2571 | val loss 1.2628 | val bpc 1.822 | 1006s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3600/5000 | lr 2.70e-04 | train loss 1.2492 | val loss 1.2656 | val bpc 1.826 | 1042s
+Step 3700/5000 | lr 2.48e-04 | train loss 1.2463 | val loss 1.2548 | val bpc 1.810 | 1079s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3800/5000 | lr 2.27e-04 | train loss 1.2441 | val loss 1.2520 | val bpc 1.806 | 1115s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 3900/5000 | lr 2.08e-04 | train loss 1.2331 | val loss 1.2526 | val bpc 1.807 | 1152s
+Step 4000/5000 | lr 1.90e-04 | train loss 1.2384 | val loss 1.2522 | val bpc 1.807 | 1187s
+Step 4100/5000 | lr 1.73e-04 | train loss 1.2358 | val loss 1.2481 | val bpc 1.801 | 1220s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4200/5000 | lr 1.58e-04 | train loss 1.2276 | val loss 1.2424 | val bpc 1.792 | 1252s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4300/5000 | lr 1.45e-04 | train loss 1.2293 | val loss 1.2441 | val bpc 1.795 | 1283s
+Step 4400/5000 | lr 1.33e-04 | train loss 1.2250 | val loss 1.2407 | val bpc 1.790 | 1316s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4500/5000 | lr 1.23e-04 | train loss 1.2272 | val loss 1.2416 | val bpc 1.791 | 1349s
+Step 4600/5000 | lr 1.15e-04 | train loss 1.2260 | val loss 1.2370 | val bpc 1.785 | 1383s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4700/5000 | lr 1.08e-04 | train loss 1.2195 | val loss 1.2356 | val bpc 1.783 | 1416s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4800/5000 | lr 1.04e-04 | train loss 1.2164 | val loss 1.2345 | val bpc 1.781 | 1447s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 4900/5000 | lr 1.01e-04 | train loss 1.2229 | val loss 1.2369 | val bpc 1.785 | 1478s
+Step 5000/5000 | lr 1.00e-04 | train loss 1.2172 | val loss 1.2311 | val bpc 1.776 | 1508s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+------------------------------------------------------------
+Best val loss: 1.2311 (bpc 1.776) at step 5000
+Test loss:     1.2160 (bpc 1.754)

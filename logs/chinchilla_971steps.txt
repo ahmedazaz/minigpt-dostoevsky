@@ -1,0 +1,31 @@
+Device: mps
+Parameters:        838,784
+Train characters:  3,976,213
+Chinchilla tokens: 16,775,680 (20 x params)
+Data limit:        15,904,852 (4 epochs)
+Training on:       15,904,852 tokens -> 971 steps (4.0 epochs)
+Step 100/971 | lr 1.00e-03 | train loss 2.5404 | val loss 2.5239 | val bpc 3.641 | 25s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 200/971 | lr 9.72e-04 | train loss 2.4420 | val loss 2.4280 | val bpc 3.503 | 49s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 300/971 | lr 8.89e-04 | train loss 2.3553 | val loss 2.3363 | val bpc 3.371 | 72s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 400/971 | lr 7.63e-04 | train loss 2.2039 | val loss 2.1910 | val bpc 3.161 | 96s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 500/971 | lr 6.09e-04 | train loss 2.0801 | val loss 2.0665 | val bpc 2.981 | 120s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 600/971 | lr 4.48e-04 | train loss 1.9846 | val loss 1.9789 | val bpc 2.855 | 144s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 700/971 | lr 3.00e-04 | train loss 1.9169 | val loss 1.9132 | val bpc 2.760 | 168s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 800/971 | lr 1.84e-04 | train loss 1.8712 | val loss 1.8690 | val bpc 2.696 | 191s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 900/971 | lr 1.15e-04 | train loss 1.8427 | val loss 1.8385 | val bpc 2.652 | 215s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+Step 971/971 | lr 1.00e-04 | train loss 1.8293 | val loss 1.8243 | val bpc 2.632 | 234s
+    saved best model -> /Users/ahmedazaz/my_gpt/checkpoints/best_model.pt
+------------------------------------------------------------
+Best val loss: 1.8243 (bpc 2.632) at step 971
+Test loss:     1.8097 (bpc 2.611)
+
+[exited with code 0]
